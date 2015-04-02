@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" uploadOnCheckin="593f823e-2a20-4f56-a0b8-25ea8a6382c0">
+    <serverData>
+      <paths name="SPTEST@Tyjsoftware.net">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="ben@localhost" />
+  </component>
+</project>
