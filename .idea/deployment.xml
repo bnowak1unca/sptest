@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" uploadOnCheckin="593f823e-2a20-4f56-a0b8-25ea8a6382c0">
+  <component name="PublishConfigData" uploadOnCheckin="ae8dc410-52e1-422a-af0b-a24639f04a66">
     <serverData>
       <paths name="SPTEST@Tyjsoftware.net">
         <serverdata>
@@ -10,6 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="ben@localhost" />
+    <option name="myUploadOnCheckinName" value="SPTEST@Tyjsoftware.net" />
   </component>
 </project>
